@@ -1,5 +1,3 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+
 test.md
+node_modules
