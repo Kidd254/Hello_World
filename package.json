@@ -225,6 +225,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
+    "hint": "^7.1.2",
     "prettier": "^2.7.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
