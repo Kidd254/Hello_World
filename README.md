@@ -1,4 +1,7 @@
 #Project Name Hello Microverse!
+This project is the first Microverse project. the project is done as per the requirements
+
+Built With
 This project was build using Html and Css. I relied on git, github, and Vs Code Studio to complete this project.
 
 
@@ -12,9 +15,9 @@ Run tests
 Deployment
 Authors
 
-👤 Author1
+👤@kidd254
 
-    GitHub: @kidd254
+    GitHub: @Kidd254
     Twitter: @lawrence kioko
     LinkedIn: Lawrence Kioko
 
