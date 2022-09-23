@@ -1,22 +1,27 @@
-#Project Name
-Hello Microverse Project
+#Project Name Hello Microverse!
+This project is the first Microverse project.  The project is done as per the requirements. I created the development branch where i introduced several changes. The changes introduced to this branch include addition of the html and css files, addition linter configuration files, rectifying errors as identified by linter, addition of descriptive README files.
 
-#Built With
-
-    Major languages: Html, css & Javascript
-    Technologies used: VS Code, Git & Github
+Built With
+This project was build using Html and Css. I relied on git, github, and Vs Code Studio to complete this project.
 
 
-👤 Author1
+#Getting Started
+To get a local copy up and running follow these simple example steps.
+Prerequisites
+Setup
+Install
+Usage
+Run tests
+Deployment
+Authors
 
-    GitHub: https://github.com/Kidd254
-    Twitter:https://twitter.com/lawrenc98789206
-    LinkedIn: https://www.linkedin.com/in/lawrence-kioko-972035240/
+👤@kidd254
+
+    GitHub: @Kidd254
+    Twitter: @lawrence kioko
+    LinkedIn: Lawrence Kioko
 
 
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 Show your support
@@ -24,7 +29,9 @@ Show your support
 Give a ⭐️ if you like this project!
 Acknowledgments
 
-    
+    Hat tip to anyone whose code was used
+    Inspiration
+    etc
 
 📝 License
 
